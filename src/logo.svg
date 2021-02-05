@@ -2,5 +2,8 @@
 <rect width="750" height="750" style="fill:black" />
 <rect x="0" y="200" width="20" height="100" style="fill:red"/>
 <rect x="730" y="200" width="20" height="100" style="fill:red"/>
+<circle  cx="375" cy="375" r="10" style="fill:white">
+
+</circle>
 </g>
 </svg>
