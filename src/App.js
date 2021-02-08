@@ -1,5 +1,7 @@
 
 import './App.css';
+import Canvas from './Canvas';
+
 
 import { ReactComponent as Logo } from './logo.svg';
 
@@ -8,7 +10,7 @@ function App() {
     <div className="App">
       <h1> Pong</h1>
       <Logo />
-       
+       <Canvas />
     </div>
   );
 }
