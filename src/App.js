@@ -9,7 +9,7 @@ function App() {
   return (
     <div className="App">
       <h1> Pong</h1>
-      <Logo />
+      {/* <Logo /> */}
        <Canvas />
     </div>
   );
